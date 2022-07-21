@@ -33,10 +33,7 @@
       publishing:
         app_store_connect: # For iOS or macOS app
           # For authenticating with App Store Connect and uploading the IPA to App Store Connect (required)
-          api_key: MIGTAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBHkwdwIBAQQgXjMHjzhlScxvC7dV
-p3HTEnCLAOhxhxLZfsyarppvFNSgCgYIKoZIzj0DAQehRANCAARU4y1AVKtG0o9i
-4VqJYyD0U4FLeSrxF5HJndhzOL3g0jGh8Qs3uFZxa3jKcB3CR0ydg+8AhXUkvlOW
-LUscitzu # Contents of the API key saved as a secure environment variable
+          api_key: MIGTAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBHkwdwIBAQQgXjMHjzhlScxvC7dVp3HTEnCLAOhxhxLZfsyarppvFNSgCgYIKoZIzj0DAQehRANCAARU4y1AVKtG0o9i4VqJYyD0U4FLeSrxF5HJndhzOL3g0jGh8Qs3uFZxa3jKcB3CR0ydg+8AhXUkvlOWLUscitzu # Contents of the API key saved as a secure environment variable
           key_id: HZDZWV9U3K # Alphanumeric value that identifies the API key, can also reference environment variable such as $APP_STORE_CONNECT_KEY_IDENTIFIER
           issuer_id: 8b689885-11b6-4d2b-a06c-82d46128abc9 # Alphanumeric value that identifies who created the API key, can also reference environment variable such as $APP_STORE_CONNECT_ISSUER_ID
 
